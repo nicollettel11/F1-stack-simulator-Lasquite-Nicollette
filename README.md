@@ -1,3 +1,13 @@
+## Student Information
+- **Name:** Nicollette A. Lasquite
+- **Section：** BSIT WMT 4-2
+- **Original starter repository:** https://github.com/Jackson-Soriano/f1-elec4-stack-simulator-starter.git
+
+Activity Description
+This activity is a pre-demo reading task for ELEC 4 – Python Programming. I cloned the Flask Stack Simulator starter project, explored its files and structure, including app.py, stack_model.py, the HTML templates, and static files. I also completed the guide questions to better understand how Python, Flask, HTML, CSS, and Jinja work together to connect the stack operations to the web interface.
+
+---
+
 # Flask Stack Simulator startup template
 
 This is the unfinished repository for a pre-demo reading activity. Read `Flask_PreDemo_Reading_Activity.pdf` first. 
